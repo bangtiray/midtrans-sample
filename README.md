@@ -1,6 +1,10 @@
 # midtrans-sample
 Simple Sample Midtrans Implements Android
 
+# instalasi merchant di server anda.
+Silahkan baca dokumentasi berikut
+https://mobile-docs.midtrans.com/#installation-using-a-wizard-or-setup-assistant
+
 # noted
 Agar dapat menghindari kata penipuan.. Mohon baca dokumentasi dari midtrans.
 Saat ini masih menggunakan server pemilik repository ini.
